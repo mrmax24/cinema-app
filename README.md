@@ -65,17 +65,16 @@ The project has a Three-Tier Architecture:
 2. Install MySQL;
 3. Create new schema in database;
 4. Add you DB properties to db.properties file;
-5. Configure Apache Tomcat version (IMPORTANT): 9.0.50 **Artifact**: `war-exploded artifact`, **Application context**: `"/"`;
+5. Configure Apache Tomcat version 9.0.50 **Artifact**: `war-exploded artifact`, **Application context**: `"/"`;
 6. Create connection to DB using Database option (Intellij Idea Ultimate).
 7. If you haven't Database option, create ConnectionUtil class and connect to DB manually 
 (https://github.com/mrmax24/taxi-service/blob/main/src/main/java/taxi/util/ConnectionUtil.java); 
 8. Done. Now just run it.
 9. You can log in both as USER or ADMIN:
-
-    **ADMIN:** username: admin@i.ua, password: admin123
-
-    **USER:** username: user@i.ua, password: user123
-
+```bash
+ADMIN: username: admin@i.ua, password: admin123
+USER: username: user@i.ua, password: user123
+```
 10. Use **Postman** to send some http requests;
 
 
