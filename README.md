@@ -1,6 +1,6 @@
-# Cinema app <img src="C:\Users\MAX\IdeaProjects\cinema-app\film-tape.gif" margin-bottom=125px align="right" width=125px>
+# Cinema app <img src="https://github.com/mrmax24/cinema-app/blob/main/film-tape.gif" margin-bottom=125px align="right" width=125px>
 ## Project description:
-```http
+```bash
 A simple web-application that supports authentication, registration and basic features of the ticket reservation service,
 based on Hibernate and Spring frameworks using REST common principles.
 ```
@@ -10,16 +10,16 @@ based on Hibernate and Spring frameworks using REST common principles.
 ## Features:
 - register and log in as a user/administrator; 
 #### Registered as USER role:
-- find movies and cinemaHalls
-- find available movieSessions
+- find movies and cinema halls
+- find available movie sessions
 - create shopping cart
 - add tickets to shopping cart
 - view shopping cart
 - make an order
 - view order history
 #### Registered as ADMIN role:
-- create and find Movies and CinemaHalls
-- create and find available MovieSessions
+- create and find movies and cinema halls
+- create and find available movie sessions
 - find user by email
 
 ## Project structure
@@ -72,9 +72,10 @@ The project has a Three-Tier Architecture:
 8. Done. Now just run it.
 9. You can log in both as USER or ADMIN:
 
-   **ADMIN:** username: admin@i.ua, password: admin@i.ua
+    **ADMIN:** username: admin@i.ua, password: admin123
 
-   **USER:** username: admin@i.ua, password: user123
+    **USER:** username: user@i.ua, password: user123
+
 10. Use **Postman** to send some http requests;
 
 
