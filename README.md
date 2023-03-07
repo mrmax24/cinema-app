@@ -47,7 +47,7 @@ The project has a Three-Tier Architecture:
 | `MySQL`               | `8.0.28` |
 | `Checkstyle`          | `3.1.1`  |
 
-### Technical details
+## Technical details
 - **Entities** represent columns in the database;
 - **DTOs** represent communication between Presentation and Service layers;
 - **DTO mappers** convert DTOs to entities and vice versa
@@ -60,7 +60,7 @@ The project has a Three-Tier Architecture:
 
 
 
-### Steps to run the program on your computer:
+## Steps to run the program on your computer:
 1. Clone the repo: https://github.com/mrmax24/cinema-app;
 2. Install MySQL;
 3. Create new schema in database;
