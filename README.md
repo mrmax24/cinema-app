@@ -1,8 +1,8 @@
 # Cinema app <img src="https://github.com/mrmax24/cinema-app/blob/main/film-tape.gif" margin-bottom=125px align="right" width=125px>
 ## Project description:
 ```bash
-A simple web-application that supports authentication, registration and basic features of the ticket reservation service,
-based on Hibernate and Spring frameworks using REST common principles.
+A simple web-application that supports authentication, registration and basic features of the ticket 
+reservation service, based on Hibernate and Spring frameworks using REST common principles.
 ```
 
 #### [Link to the project]()
