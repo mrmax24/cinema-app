@@ -36,14 +36,14 @@ The project has a Three-Tier Architecture:
 | `Maven`                  | `4.0.0`  |
 | `Hibernate`              | `5.6.14` |
 | `Hibernate validator`    | `6.1.6`  |
-| `Spring Framework`       | `-`      |
-| `Spring Context`         | `-`      |
-| `Spring ORM`             | `-`      |
+| `Spring Framework`       | `5.3.20` |
 | `Spring Web MVC`         | `-`      |
 | `Spring Security`        | `5.6.10` |
 | `Apache Tomcat`          | `9.0.50` |
 | `Javax Servlet`          | `4.0.1`  |
 | `Javax Annotation`       | `1.0`    |
+| `JSON`                   | `-`    |
+| `Jackson`                | `2.14.1` |
 | `MySQL`               | `8.0.28` |
 | `Checkstyle`          | `3.1.1`  |
 
