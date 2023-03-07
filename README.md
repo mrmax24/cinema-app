@@ -1,4 +1,4 @@
-# Cinema app <img src="https://github.com/mrmax24/cinema-app/blob/main/film-tape.gif" margin-bottom=125px align="right" width=125px>
+# Cinema app <img src="https://github.com/mrmax24/cinema-app/blob/main/film-tape.gif" style="border-radius:6px; padding:0px" align="right" width=125px>
 ## Project description:
 ```bash
 A simple web-application that supports authentication, registration and basic features of the ticket 
