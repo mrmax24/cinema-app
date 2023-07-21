@@ -67,8 +67,7 @@ The project has a Three-Tier Architecture:
 4. Add you DB properties to db.properties file;
 5. Configure Apache Tomcat version 9.0.50 **Artifact**: `war-exploded artifact`, **Application context**: `"/"`;
 6. Create connection to DB using Database option (Intellij Idea Ultimate).
-7. If you haven't Database option, create ConnectionUtil class and connect to DB manually 
-(https://github.com/mrmax24/taxi-service/blob/main/src/main/java/taxi/util/ConnectionUtil.java); 
+7. If you haven't Database option, connect to DB manually in src/main/resources/db.properties;
 8. Done. Now just run it.
 9. You can log in both as USER or ADMIN:
 ```bash
