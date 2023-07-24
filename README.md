@@ -5,7 +5,6 @@ A simple web-application that supports authentication, registration and basic fe
 reservation service, based on Hibernate and Spring frameworks using REST common principles.
 ```
 
-#### [Link to the project]()
 
 ## Features:
 - register and log in as a user/administrator; 
